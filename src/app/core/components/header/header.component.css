@@ -1,0 +1,9 @@
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+
+.navbar-brand .logo {
+  font-size: 1.5rem;
+  margin: 0.5rem;
+}
